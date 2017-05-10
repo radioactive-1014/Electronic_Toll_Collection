@@ -1,0 +1,8 @@
+prefix=/home/rokon/catkin_ws/devel
+
+Name: detection
+Description: Description of detection
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rokon/catkin_ws/devel/lib 
+Requires: 
